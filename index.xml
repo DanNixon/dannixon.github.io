@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dan Nixon</title>
+    <link>https://dan-nixon.com/</link>
+    <description>Recent content on Dan Nixon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="https://dan-nixon.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>https://dan-nixon.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dan-nixon.com/about/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m Dan.&lt;/p&gt;
+&lt;p&gt;I write code, design and build random electronic things.&lt;/p&gt;
+&lt;p&gt;I studied computer game engineering (MComp) at &lt;a href=&#34;https://www.ncl.ac.uk/&#34;&gt;Newcastle
+University&lt;/a&gt; and currently work as an engineer within
+the Scientific Software Group at the &lt;a href=&#34;https://stfc.ukri.org/&#34;&gt;Science and Technology Facilities
+Council&lt;/a&gt;, with a focus on next generation data
+acquisition technology.&lt;/p&gt;
+&lt;p&gt;In my spare time I take interest in any and all things maker/hacker related.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
